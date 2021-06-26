@@ -1,0 +1,2 @@
+# speed-typer
+Speed Typer
